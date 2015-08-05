@@ -1,0 +1,5 @@
+applications:
+- name: traceability-assistant
+  path: .
+  domain: mybluemix.net
+  memory: 256M

@@ -1,0 +1,1 @@
+This folder contains the p2 repository that will be use by users as eclipse update-site

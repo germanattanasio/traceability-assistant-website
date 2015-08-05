@@ -1,0 +1,13 @@
+{
+	"name": "traceability-assistant-website",
+	"version": "0.1.1",
+	"description": "TRAS update site",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.12.x",
+		"cfenv": "1.0.x"
+	},
+	"repository": {}
+}

@@ -1,1 +1,6 @@
 node_modules
+public/eclipse/artifacts.jar
+public/eclipse/category.xml
+public/eclipse/content.jar
+public/eclipse/features/
+public/eclipse/plugins/
